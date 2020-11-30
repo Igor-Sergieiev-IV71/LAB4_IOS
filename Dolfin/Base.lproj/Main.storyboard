@@ -289,7 +289,6 @@
                     </view>
                     <navigationItem key="navigationItem" id="VkN-fB-Q3x"/>
                     <connections>
-                        <outlet property="scrollVIew" destination="wv3-Z8-g4r" id="A65-D2-ShE"/>
                         <outlet property="titleInputedText" destination="del-ov-8PX" id="qtr-b6-O52"/>
                         <outlet property="typeInputedText" destination="6NA-vp-0Af" id="LMr-xI-Ifn"/>
                         <outlet property="yearInputedText" destination="TNn-Uk-8n0" id="vvy-h3-98n"/>
